@@ -1,0 +1,7 @@
+torch
+numpy
+pandas
+streamlit
+PIL
+pytorch_pretrained_bert
+
