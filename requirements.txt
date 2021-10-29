@@ -2,6 +2,6 @@ torch
 numpy
 pandas
 streamlit
-PIL
+pillow
 pytorch_pretrained_bert
 
